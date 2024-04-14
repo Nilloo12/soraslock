@@ -9,8 +9,8 @@ end)
 tool.Parent = game.Players.LocalPlayer.Backpack
 
 game.StarterGui:SetCore("SendNotification", {
-    Title = "sora is god";
-    Text = "Start by sora";
+    Title = "skibidi gyat";
+    Text = "Start looksmaxxing";
 
 })
 
@@ -26,13 +26,13 @@ player.CharacterRemoving:Connect(function()
     tool.Parent = game.Players.LocalPlayer.Backpack
 end)
 
---Made By sora, dora helped on orbit thx
+--Made By Xarcax, reworked by k0nkx/asainyuh, Haafli helped on orbit thx
 
 --Heavily pasted btw just like aura x
 
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/kpLzpNXc"))()
 
-local Window = Library:CreateWindow("Soras lock", Vector2.new(300, 300), Enum.KeyCode.RightShift)
+local Window = Library:CreateWindow("sora lock", Vector2.new(300, 300), Enum.KeyCode.RightShift)
 local AkaliNotif =
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))()
     
